@@ -47,9 +47,8 @@ El objetivo de este taller es hacer que el carrusel que desarrolles se vea corre
 | Transiciones y animaciones    | 0.25        |
 | Total                       | 5          |
 
-## Recursos adicionales
+## Link y screenshots
 
-- [Guía de HTML](https://www.w3schools.com/html/)
-- [Guía de CSS](https://www.w3schools.com/css/)
-- [Guía de JavaScript](https://www.w3schools.com/js/)
-- [Guía de diseño web responsive](https://www.w3schools.com/html/html_responsive.asp)
+- URL: https://dsaw-2025-i.github.io/dom-manipulation-parra284/
+
+![](./screenshot/carrusel.png)
