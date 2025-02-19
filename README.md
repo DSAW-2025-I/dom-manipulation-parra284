@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/hguNOMc5)
 # Reto de Carrusel Básico con HTML, CSS y JavaScript
 
 ![Design preview for the Carousel component coding challenge](./assets/mockup.png)
@@ -46,9 +47,8 @@ El objetivo de este taller es hacer que el carrusel que desarrolles se vea corre
 | Transiciones y animaciones    | 0.25        |
 | Total                       | 5          |
 
-## Recursos adicionales
+## Link y screenshots
 
-- [Guía de HTML](https://www.w3schools.com/html/)
-- [Guía de CSS](https://www.w3schools.com/css/)
-- [Guía de JavaScript](https://www.w3schools.com/js/)
-- [Guía de diseño web responsive](https://www.w3schools.com/html/html_responsive.asp)
+- URL: https://dsaw-2025-i.github.io/dom-manipulation-parra284/
+
+![](./screenshot/carrusel.png)
